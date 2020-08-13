@@ -1,5 +1,6 @@
 # Table of contents
 
 * [ElementsKit](README.md)
-* [Welcome to GitHub Pages](index.md)
+* [Modules](modules/README.md)
+  * [Conditional Content](modules/conditional-content.md)
 
